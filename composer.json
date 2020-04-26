@@ -1,8 +1,8 @@
 {
-	"name": "mihaildev/yii2-file-upload",
+	"name": "kodia912/yii2-file-upload",
 	"keywords": ["yii", "file", "upload", "fileUpload"],
 	"description": "Yii2 file upload",
-	"homepage": "https://github.com/MihailDev/yii2-file-upload",
+	"homepage": "https://github.com/kodia912/yii2-file-upload",
 	"license": "BSD-3-Clause",
 	"minimum-stability" : "dev",
 	"authors": [
@@ -11,7 +11,14 @@
 			"email": "mihail.kucher@gmail.com",
 			"homepage": "https://github.com/MihailDev",
 			"role": "Developer"
-		}
+		},
+		{
+			"name": "kodia912",
+			"email": "912kodia@gmail.com",
+			"homepage": "https://github.com/kodia912",
+			"role": "Developer"
+		},
+
 	],
 	"autoload": {
 		"psr-4": {"mihaildev\\fileupload\\": ""}
