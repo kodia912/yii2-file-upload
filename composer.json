@@ -17,8 +17,7 @@
 			"email": "912kodia@gmail.com",
 			"homepage": "https://github.com/kodia912",
 			"role": "Developer"
-		},
-
+		}
 	],
 	"autoload": {
 		"psr-4": {"mihaildev\\fileupload\\": ""}
