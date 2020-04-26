@@ -1,6 +1,11 @@
 Yii 2 File Upload
 ===========================
 
+В форке исправлена ошибка:
+```
+PHP 7.2 Cannot use yii\base\Object as Object because 'Object' is a special class name
+```
+
 ## Установка
 
 Удобнее всего установить это расширение через [composer](http://getcomposer.org/download/).
